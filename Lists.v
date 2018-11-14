@@ -625,4 +625,5 @@ Module PartialMap.
     cbn. intros d x y o H. rewrite H. auto.
   Qed.
 
-  
+End PartialMap.
+
